@@ -1,0 +1,7 @@
+bin/
+.dist/
+*.class
+*.jar
+target/
+out/
+# Add other build artifacts as needed
